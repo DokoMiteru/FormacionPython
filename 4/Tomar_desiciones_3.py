@@ -23,7 +23,7 @@ calificacion = 9
 if edad< 18:
     print("no eres mayor de edad")
     if calificacion > 7:
-        print("aproado")
+        print("aprobado")
     else:
         print("no aprobado")
 else:
