@@ -27,4 +27,5 @@ if edad< 18:
     else:
         print("no aprobado")
 else:
-    print("eres mayor de edad")
+    print("eres mayor de edad") 
+#continuar

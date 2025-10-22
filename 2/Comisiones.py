@@ -1,3 +1,4 @@
+#ejercicio de cerveza
 nombre = input("Dime tu nombre -> ")
 ventas =float(input("Dime el numero de ventas -> "))
  

@@ -8,4 +8,4 @@ print(mi_set)
 #s2 = {3,4,5}
 #s3= s1.union(s2)
 #print(s3)
- 
+ # recuerda que los set no aceptan listas.
